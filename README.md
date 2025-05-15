@@ -1,6 +1,6 @@
 # Simulating Fluid Flow in a Lid-Driven Cavity
 
-- By Apoorv Bhardwaj - 23117026
+-    Apoorv Bhardwaj - 23117026
 -    Atharv Priyadarshi - 23117034
 
 This project explores the classic lid-driven cavity problem, a standard test case in computational fluid dynamics (CFD). I've developed a Python code to simulate this 2D flow, using a finite difference approach to solve the governing Navier-Stokes equations.
